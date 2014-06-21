@@ -12,3 +12,5 @@ Tror att ovanstående rad skrevs på midsommaraftons morgon. Ha, roligt aftons mor
 Nu är det midsommardagen, på morgonen och jag sitter och skriver detta på ASUS.
 Team - add to index. Då flyttades den från unstaged Changes till Staged changes. Vit stjärna.
 Sen commitar and pushar jag. Hejdå!
+
+Nu är jag trött
