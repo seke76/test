@@ -10,3 +10,5 @@ Lokala Git repo skapades: C:\Users\Stefan\git\test
 Doing some changes on work computer.
 Tror att ovanstående rad skrevs på midsommaraftons morgon. Ha, roligt aftons morgon.
 Nu är det midsommardagen, på morgonen och jag sitter och skriver detta på ASUS.
+Team - add to index. Då flyttades den från unstaged Changes till Staged changes. Vit stjärna.
+Sen commitar and pushar jag. Hejdå!
