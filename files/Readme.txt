@@ -15,4 +15,4 @@ Sen commitar and pushar jag. Hejdå!
 
 Nu är jag trött
 
-När jag skriver dett är det långt in i framtiden, utifrån tidigare ord.
+När jag skriver dett är det långt in i framtiden, utifrån tidigare ord. Varför funkar denna?
