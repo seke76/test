@@ -14,3 +14,5 @@ Team - add to index. Då flyttades den från unstaged Changes till Staged changes.
 Sen commitar and pushar jag. Hejdå!
 
 Nu är jag trött
+
+När jag skriver dett är det långt in i framtiden, utifrån tidigare ord.
