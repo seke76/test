@@ -16,3 +16,5 @@ Sen commitar and pushar jag. Hejdå!
 Nu är det måndag och jag är på jobbet. På jobbdatorn alltså.
 Idag är det långt fram i framtiden om man ser ifrån när förra meningen skrevs.
 Jaha, då försvann min förra rad.
+
+DeathHead
