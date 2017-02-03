@@ -8,6 +8,7 @@ Skapade eller importerade som ett generellt projekt.
 Lokala Git repo skapades: C:\Users\Stefan\git\test
 
 Doing some changes on work computer.
+
 Tror att ovanst�ende rad skrevs p� midsommaraftons morgon. Ha, roligt aftons morgon.
 Nu �r det midsommardagen, p� morgonen och jag sitter och skriver detta p� ASUS.
 Team - add to index. D� flyttades den fr�n unstaged Changes till Staged changes. Vit stj�rna.
@@ -16,6 +17,12 @@ Sen commitar and pushar jag. Hejd�!
 Nu �r jag tr�tt
 
 N�r jag skriver dett �r det l�ngt in i framtiden, utifr�n tidigare ord. Varf�r funkar denna?
+
+
+Nu �r det m�ndag och jag �r p� jobbet. P� jobbdatorn allts�.
+Idag �r det l�ngt fram i framtiden om man ser ifr�n n�r f�rra meningen skrevs.
+Jaha, d� f�rsvann min f�rra rad.
+
 
 2017-02-03 och har precis installerat ny Eclipse Neon på ASUS. Som första test projektet så
 kopplade jag mig mot ett av de lokala git repona. åäö är knas i denna fil, vet inte varför?
