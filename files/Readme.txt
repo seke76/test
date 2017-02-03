@@ -1,18 +1,22 @@
 Tjena
 
-Skapde först ett repo på github.
-Detta projekt i Eclipse som heter "Test" skapades utifrån:
+Skapde fï¿½rst ett repo pï¿½ github.
+Detta projekt i Eclipse som heter "Test" skapades utifrï¿½n:
 File - Import - Git - "Projects from Git"
 Skapade eller importerade som ett generellt projekt.
 
 Lokala Git repo skapades: C:\Users\Stefan\git\test
 
 Doing some changes on work computer.
-Tror att ovanstående rad skrevs på midsommaraftons morgon. Ha, roligt aftons morgon.
-Nu är det midsommardagen, på morgonen och jag sitter och skriver detta på ASUS.
-Team - add to index. Då flyttades den från unstaged Changes till Staged changes. Vit stjärna.
-Sen commitar and pushar jag. Hejdå!
+Tror att ovanstï¿½ende rad skrevs pï¿½ midsommaraftons morgon. Ha, roligt aftons morgon.
+Nu ï¿½r det midsommardagen, pï¿½ morgonen och jag sitter och skriver detta pï¿½ ASUS.
+Team - add to index. Dï¿½ flyttades den frï¿½n unstaged Changes till Staged changes. Vit stjï¿½rna.
+Sen commitar and pushar jag. Hejdï¿½!
 
-Nu är jag trött
+Nu ï¿½r jag trï¿½tt
 
-När jag skriver dett är det långt in i framtiden, utifrån tidigare ord. Varför funkar denna?
+Nï¿½r jag skriver dett ï¿½r det lï¿½ngt in i framtiden, utifrï¿½n tidigare ord. Varfï¿½r funkar denna?
+
+2017-02-03 och har precis installerat ny Eclipse Neon pÃ¥ ASUS. Som fÃ¶rsta test projektet sÃ¥
+kopplade jag mig mot ett av de lokala git repona. Ã¥Ã¤Ã¶ Ã¤r knas i denna fil, vet inte varfÃ¶r?
+Sparar denna och den blir dÃ¥ "dirty" som indikeras med pil Ã¥t hÃ¶ger.
