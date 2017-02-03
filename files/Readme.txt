@@ -20,3 +20,5 @@ N�r jag skriver dett �r det l�ngt in i framtiden, utifr�n tidigare ord. 
 2017-02-03 och har precis installerat ny Eclipse Neon på ASUS. Som första test projektet så
 kopplade jag mig mot ett av de lokala git repona. åäö är knas i denna fil, vet inte varför?
 Sparar denna och den blir då "dirty" som indikeras med pil åt höger.
+
+Git Staging: Då får filen en vit stjärna.
