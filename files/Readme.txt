@@ -28,4 +28,4 @@ Jaha, d� f�rsvann min f�rra rad.
 kopplade jag mig mot ett av de lokala git repona. åäö är knas i denna fil, vet inte varför?
 Sparar denna och den blir då "dirty" som indikeras med pil åt höger.
 
-Git Staging: Då får filen en vit stjärna.
+Git Staging: Då får filen en vit stjärna. Efter det kan man comitta.
