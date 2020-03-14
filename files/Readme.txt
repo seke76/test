@@ -20,3 +20,5 @@ kopplade jag mig mot ett av de lokala git repona. åäö är knas i denna fil, v
 Sparar denna och den blir då "dirty" som indikeras med pil åt höger.
 
 Nytt år, det är 2020 och jag är inte bakis. Men hur som helst så skapade jag min första branch som heter feature, skriver detta stycke och editerade lite ovan för att få diff. hej hej!
+
+Mm Corona är så gott!
